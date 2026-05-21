@@ -52,7 +52,7 @@ Ride-booking companies process thousands of bookings daily, making it difficult 
 
 ## 📷 Dashboard Preview
 
-![front_page.png](uber_dashboard.png)
+![Front_Page](https://github.com/Anish003-code/UBER_DASHBOARD/blob/167b27ae7bc3cbe991e67dd7ac72ba4a6f810b78/front_page.png)
 
 ---
 
