@@ -60,6 +60,18 @@ Ride-booking companies process thousands of bookings daily, making it difficult 
 7. Generated business insights and recommendations.
 8. Published project on GitHub for portfolio showcase.
 ---
+
+## 📈 Key Insights
+
+- Total Revenue generated: ₹52M
+- Total Completed Bookings: 93K
+- Total Cancelled Bookings: 57K
+- Total Distance Covered: 2.51M km
+- Revenue remained relatively stable throughout the year.
+- Customer ratings (4.40) were slightly higher than driver ratings (4.23).
+- High cancellation numbers indicate opportunities for operational improvement.
+
+---
 ## 🧠 Business Recommendations
 
 - Reduce booking cancellations through better ride allocation and driver management.
