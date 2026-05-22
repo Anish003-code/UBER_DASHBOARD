@@ -49,6 +49,27 @@ Ride-booking companies process thousands of bookings daily, making it difficult 
 - Measure total ride distance covered
 
 ---
+## 📂 Project Workflow
+
+1. Collected and imported ride-booking datasets.
+2. Cleaned and transformed data using Power Query.
+3. Connected MySQL database with Power BI.
+4. Created data models and relationships.
+5. Developed KPIs and calculated measures using DAX.
+6. Designed interactive dashboard visuals and filters.
+7. Generated business insights and recommendations.
+8. Published project on GitHub for portfolio showcase.
+---
+## 🧠 Business Recommendations
+
+- Reduce booking cancellations through better ride allocation and driver management.
+- Increase focus on high-revenue vehicle categories like Auto and Go Mini.
+- Improve driver satisfaction to enhance overall service quality.
+- Introduce customer loyalty and retention programs.
+- Analyze peak demand periods for better pricing and fleet optimization.
+- Use ratings data to identify service improvement areas.
+
+---
 
 ## 📷 Dashboard Preview
 
